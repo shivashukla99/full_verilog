@@ -19,6 +19,8 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
+//  Code for full adder- results in the readme file of full_verilog
+
 
 module FA( input a,b,cin , output sum, cout
 
