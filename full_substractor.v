@@ -19,6 +19,8 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
+//  Code for full substractor- results in the readme file of full_verilog
+
 
 module full_substractor( input a,b,bin , output diff, borrow
     );
