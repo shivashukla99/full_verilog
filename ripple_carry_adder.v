@@ -19,6 +19,8 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
+//  Code for  4bit Ripple carry adder- results in the readme file of full_verilog
+
 
 module ripple_carry_adder(input [3:0] a_rca, [3:0]b_rca , input cin , output [3:0]sum_rca, output cout_rca
 
