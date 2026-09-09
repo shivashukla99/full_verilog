@@ -1,6 +1,6 @@
 // Code your design here
  
-module half_adder( input a,b ,output sum, carry);
+module half_adder( input a,b ,output reg sum, carry);
   
   always@(a,b)
     begin
