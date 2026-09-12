@@ -26,24 +26,37 @@ module mux_4_1_tb(
     reg [1:0]s;
     reg [3:0]in;
     wire y;
+    integer i;
     
-    mux_4_1(s, in ,y);
+    
+    mux_4_1 dut(s, in ,y);
+    
+    initial
+    beign
+    {s, in} =0;
+    
+    end
     
     initial 
     begin 
     /////by normal way providing input 
     
-    s = 2'b00;
-    in = 2'b00;
+//    s = 2'b00;
+//    in = 2'b00;
+//    #1;
+//     s = 2'b00;
+//    in = 2'b01;
+//    #1;
+    
+//     s = 2'b00;
+//    in = 2'b00;
+    
+    //using for loop
+    
+    for (i=0; i<64; i=i+1)beign
     #1;
-     s = 2'b00;
-    in = 2'b01;
-    #1;
-    
-     s = 2'b00;
-    in = 2'b00;
-    
-    
+    (s,in) =i;
+ end
     
     
     end
