@@ -33,6 +33,15 @@ module mux_2_1( input s , input [1:0]i , output reg y
     
     
     endcase
+
+
+        //using if else statement 
+           
+   if(s)
+   y= i[0];
+   else
+   y=i[1];
+   
     end
     
     
