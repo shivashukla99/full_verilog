@@ -19,6 +19,8 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
+//this is mux 2x1 this comment will be remove after some time and this is dummy comment
+
 
 module mux_2_1( input s , input [1:0]i , output reg y
 
