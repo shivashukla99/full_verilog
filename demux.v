@@ -21,6 +21,8 @@
 
 //--------This code is for 2x1 demux-------------
 
+//this demux is comment will be removed after some time 
+
 
 module demux(
 input s, input in, output reg [1:0]y 
