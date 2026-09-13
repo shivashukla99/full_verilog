@@ -21,6 +21,8 @@
 
 //  Code for full adder- results in the readme file of full_verilog
 
+//this code is for full adder and it is use for create the file in the code the adder is combinational circuit which use in the different opperations
+
 
 module FA( input a,b,cin , output sum, cout
 
