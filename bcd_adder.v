@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Abhishek shukla 
 // 
 // Create Date: 11.09.2026 01:08:38
 // Design Name: 
 // Module Name: bcd_adder
-// Project Name: 
+// Project Name: bcd_adder
 // Target Devices: 
 // Tool Versions: 
 // Description: 
