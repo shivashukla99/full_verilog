@@ -6,7 +6,7 @@
 // Create Date: 02.09.2026 21:16:20
 // Design Name: Full adder
 // Module Name: FA
-// Project Name: 
+// Project Name: Full adder 
 // Target Devices: 
 // Tool Versions: 
 // Description: 
