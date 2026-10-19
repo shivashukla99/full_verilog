@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
+// Company: student 
 // Engineer: Abhishek shukla 
 // 
 // Create Date: 02.09.2026 21:16:20
